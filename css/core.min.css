@@ -1667,7 +1667,7 @@ body {
   top: -30%;
   right: 0;
   content: "";
-  background-image: url("../../images/decor/decor-1.svg");
+  background-image: url("../images/decor/decor-1.svg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
