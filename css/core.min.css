@@ -1836,7 +1836,7 @@ body {
   padding: 2rem;
 }
 .about__info {
-  animation-delay: .4s;
+  animation-delay: 0.4s;
 }
 .about__inner {
   padding: 3rem;
