@@ -1835,6 +1835,9 @@ body {
           box-shadow: 1rem 2rem 3rem 0 rgba(252, 219, 90, 0.5);
   padding: 2rem;
 }
+.about__info {
+  animation-delay: .4s;
+}
 .about__inner {
   padding: 3rem;
 }
